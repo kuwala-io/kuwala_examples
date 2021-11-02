@@ -1,0 +1,7 @@
+geojson
+h3
+pandas
+pandas_profiling
+sidecar
+unfolded.data-sdk>=0.4.1
+unfolded.map-sdk>=0.2.1
